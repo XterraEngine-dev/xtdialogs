@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xtdialogs</string>
+    <string name="positive_popup_title_default">Lorem Positive</string>
+    <string name="negative_popup_title_default">Lorem Negative</string>
+    <string name="positive_popup_text_default">qui dolorem ipsum, quia dolor sit amet consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem</string>
+    <string name="negative_popup_text_default">qui dolorem ipsum, quia dolor sit amet consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem</string>
+</resources>
